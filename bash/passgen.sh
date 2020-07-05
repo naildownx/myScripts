@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# Disclaimer: Password lists are harmful to make. What you do with them is up to you. Play nice.
+# Disclaimer: Password lists are harmless to make by themselves for testing purposes. What you do with them is up to you. Play nice.
 
 # Print All arguments into password list
 printf "$2\n$3\n$4\n$5\n$6\n$7\n$8\n$9\n${10}\n${11}" >> ~/passlst/$1 
