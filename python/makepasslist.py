@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Disclaimer: Password lists are harmful to make. What you do with them is up to you. Play nice.
+
 # To be used in conjunction with the passgen shell script under bash scripts folder.
 # This script just takes the existing values provided and mangles them. 
 
